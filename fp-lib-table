@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name eurorack)(type KiCad)(uri ${KIPRJMOD}/eurorack.pretty)(options "")(descr ""))
+)
